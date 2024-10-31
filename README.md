@@ -11,3 +11,9 @@ Thực hiện bài toán phân loại hình ảnh (hoa, động vật...). Cho i
 - Sử dụng thuật toán: SVM, KNN, Decion Tree
 - Độ đo so sánh: time, accuracy, precision, recall.
 Data: con vật (Chó mèo); 
+
+Bài tập 4 (Main_4.py)
+Thực hiện phân lớp ảnh với 2 Bộ dữ liệu IRIS (kho dữ liệu mẫu), 300 ảnh nha khoa, sử dụng bộ phân lớp sau:
+- CART (measure: Gini Index)
+- ID3 (measure: Information Gain)
+  
